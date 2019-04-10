@@ -21,7 +21,7 @@ public class ProgramaComposicionCono {
             
             
             /**
-             * ESTO ES UNA PRUEBA PARA COMPROBAR EL FUNCIONAMINETO DE GITHUB
+             * ESTO ES UNA PRUEBA PARA COMPROBAR EL FUNCIONAMINETO DE GITHUB POR DAVID CRUZ
              */
         }
     }
